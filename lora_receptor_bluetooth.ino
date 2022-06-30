@@ -9,9 +9,10 @@
   OLED_SCL -- GPIO15
   OLED_RST -- GPIO16
   
-  by Aaron.Lee from HelTec AutoMation, ChengDu, China
-  成都惠利特自动化科技有限公司
-  www.heltec.cn
+ ****
+  GUIA PARA INSTALAR LIBRERIA HELTEC:
+https://heltec-automation-docs.readthedocs.io/en/latest/esp32/quick_start.html
+
   
   this project also realess in GitHub:
   https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series
